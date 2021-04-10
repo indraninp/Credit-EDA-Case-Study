@@ -33,7 +33,7 @@ This project aims to identify patterns which indicate if a client has difficulty
 
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
-# Projct Description
+# Project Description
 
 These data is  cleaned, wrangled and then Exploratory Data Analysis is performed using python and its libraries numpy and pandas. We have investigated the different factors contributing to loan default by performing univariate, segmented univariate, bivariate and correlation analysis. Presented findings with relevant statistics and visualizations using the matplotlib and seaborn libraries.
 
